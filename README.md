@@ -1,5 +1,7 @@
 # AI-Native Insurance Services Platform (POC)
 
+Maintainer: [Bipin077x](https://github.com/Bipin077x)
+
 This is a proof-of-concept for an AI-native insurance platform encompassing Claims, Underwriting, Brokerage, and Financial Audit functionalities. 
 
 ## Architectural Principles
