@@ -1,0 +1,21 @@
+Please audit the following automated insurance decision.
+
+Flag Reason: {{anomaly_reason}}
+
+Decision Details:
+ID: {{decision_id}}
+Function: {{function_type}}
+Outcome: {{outcome}}
+Confidence: {{confidence_score}}
+Original Reasoning: {{reasoning_text}}
+Rules Fired/Failed: {{rules_fired}}
+
+Inputs Snapshot:
+{{inputs_snapshot}}
+
+Rule Results:
+{{rule_results}}
+
+Determine if the original decision was well-supported by the rules and data.
+Identify if there are any inconsistencies.
+Provide a clear audit_rationale.

@@ -1,0 +1,18 @@
+Evaluate the following insurance claim:
+
+Claim Details:
+ID: {{claim_id}}
+Policy ID: {{policy_id}}
+Date Filed: {{date_filed}}
+Claim Type: {{claim_type}}
+Amount: {{amount}}
+Cause: {{cause}}
+
+Rule Check Results:
+{{rules_summary}}
+
+Fraud Score: {{fraud_score}}
+Fraud Flags: {{fraud_flags}}
+
+Decide whether to 'approve', 'deny', or 'review'.
+Provide a confidence score and reasoning_text.

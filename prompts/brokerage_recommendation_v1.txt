@@ -1,0 +1,12 @@
+Recommend the best insurance product for this client:
+
+Client Needs:
+Destination: {{destination}}
+Duration: {{duration_days}} days
+Priorities: {{priorities}}
+Budget: {{budget_signal}}
+
+Eligible Catalog Products:
+{{catalog_str}}
+
+Provide the recommended_product_id, a confidence score (0-1), and reasoning_text explicitly stating trade-offs vs. alternatives.

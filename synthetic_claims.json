@@ -1,0 +1,308 @@
+[
+  {
+    "claim_id": "CLM-1001",
+    "policy_id": "POL-1001",
+    "date_filed": "2026-09-21T21:03:59.180063+00:00",
+    "raw_text": "My trip was cancelled because the airline went bankrupt. I spent $2119.69 on tickets. Please reimburse me. Policy POL-1001.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1002",
+    "policy_id": "POL-1002",
+    "date_filed": "2026-09-21T23:03:59.180063+00:00",
+    "raw_text": "My trip was cancelled because the airline went bankrupt. I spent $1466.03 on tickets. Please reimburse me. Policy POL-1002.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1003",
+    "policy_id": "POL-1003",
+    "date_filed": "2026-09-22T09:03:59.180063+00:00",
+    "raw_text": "My trip was cancelled because the airline went bankrupt. I spent $2399.98 on tickets. Please reimburse me. Policy POL-1003.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1004",
+    "policy_id": "POL-1004",
+    "date_filed": "2026-09-23T02:03:59.180063+00:00",
+    "raw_text": "My trip was cancelled because the airline went bankrupt. I spent $556.56 on tickets. Please reimburse me. Policy POL-1004.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1005",
+    "policy_id": "POL-1005",
+    "date_filed": "2026-09-22T18:03:59.180063+00:00",
+    "raw_text": "My trip was cancelled because the airline went bankrupt. I spent $826.15 on tickets. Please reimburse me. Policy POL-1005.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1006",
+    "policy_id": "POL-1006",
+    "date_filed": "2026-09-21T13:03:59.180063+00:00",
+    "raw_text": "My trip was cancelled because the airline went bankrupt. I spent $1850.16 on tickets. Please reimburse me. Policy POL-1006.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1007",
+    "policy_id": "POL-1007",
+    "date_filed": "2026-09-21T16:03:59.180063+00:00",
+    "raw_text": "My trip was cancelled because the airline went bankrupt. I spent $1733.21 on tickets. Please reimburse me. Policy POL-1007.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1008",
+    "policy_id": "POL-1008",
+    "date_filed": "2026-09-21T16:03:59.180063+00:00",
+    "raw_text": "My trip was cancelled because the airline went bankrupt. I spent $716.27 on tickets. Please reimburse me. Policy POL-1008.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1009",
+    "policy_id": "POL-1009",
+    "date_filed": "2026-09-22T06:03:59.180063+00:00",
+    "raw_text": "My trip was cancelled because the airline went bankrupt. I spent $1473.95 on tickets. Please reimburse me. Policy POL-1009.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1010",
+    "policy_id": "POL-1010",
+    "date_filed": "2026-09-22T01:03:59.180063+00:00",
+    "raw_text": "My trip was cancelled because the airline went bankrupt. I spent $1611.42 on tickets. Please reimburse me. Policy POL-1010.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1011",
+    "policy_id": "POL-1011",
+    "date_filed": "2026-09-21T14:03:59.180063+00:00",
+    "raw_text": "My expensive trip was cancelled due to illness. Total cost was $6000.00. Need reimbursement on policy POL-1011.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1012",
+    "policy_id": "POL-1012",
+    "date_filed": "2026-09-21T19:03:59.180063+00:00",
+    "raw_text": "I am filing a claim for trip cancellation. My flight was cancelled due to bad weather. I want to claim $1000.00. My policy is POL-1012.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1013",
+    "policy_id": "POL-1013",
+    "date_filed": "2026-09-22T20:03:59.180063+00:00",
+    "raw_text": "I had to cancel my trip because I went skydiving and broke my leg. Claiming $2000.00 under POL-1013.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1014",
+    "policy_id": "POL-1014",
+    "date_filed": "2026-09-21T22:03:59.180063+00:00",
+    "raw_text": "My expensive trip was cancelled due to illness. Total cost was $6000.00. Need reimbursement on policy POL-1014.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1015",
+    "policy_id": "POL-1015",
+    "date_filed": "2026-09-22T15:03:59.180063+00:00",
+    "raw_text": "I am filing a claim for trip cancellation. My flight was cancelled due to bad weather. I want to claim $1000.00. My policy is POL-1015.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1016",
+    "policy_id": "POL-1016",
+    "date_filed": "2026-09-21T16:03:59.180063+00:00",
+    "raw_text": "I had to cancel my trip because I went skydiving and broke my leg. Claiming $2000.00 under POL-1016.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1017",
+    "policy_id": "POL-1017",
+    "date_filed": "2026-09-21T23:03:59.180063+00:00",
+    "raw_text": "My expensive trip was cancelled due to illness. Total cost was $6000.00. Need reimbursement on policy POL-1017.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1018",
+    "policy_id": "POL-1018",
+    "date_filed": "2026-09-22T03:03:59.180063+00:00",
+    "raw_text": "I am filing a claim for trip cancellation. My flight was cancelled due to bad weather. I want to claim $1000.00. My policy is POL-1018.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1019",
+    "policy_id": "POL-1019",
+    "date_filed": "2026-09-21T17:03:59.180063+00:00",
+    "raw_text": "I had to cancel my trip because I went skydiving and broke my leg. Claiming $2000.00 under POL-1019.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1020",
+    "policy_id": "POL-1020",
+    "date_filed": "2026-09-22T22:03:59.180063+00:00",
+    "raw_text": "My expensive trip was cancelled due to illness. Total cost was $6000.00. Need reimbursement on policy POL-1020.",
+    "evidence": [
+      "booking_receipt.pdf",
+      "cancellation_email.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-1021",
+    "policy_id": "POL-1021",
+    "date_filed": "2026-09-21T17:03:59.180063+00:00",
+    "raw_text": "Claiming $165100.00 for trip cancellation. I just bought this policy POL-1021 yesterday and my trip got cancelled today due to unspecified personal reasons. Can't provide documents right now.",
+    "evidence": []
+  },
+  {
+    "claim_id": "CLM-1022",
+    "policy_id": "POL-1022",
+    "date_filed": "2026-09-22T13:03:59.180063+00:00",
+    "raw_text": "Claiming $5000.00 for trip cancellation. I just bought this policy POL-1022 yesterday and my trip got cancelled today due to unspecified personal reasons. Can't provide documents right now.",
+    "evidence": [
+      "receipt.jpg"
+    ]
+  },
+  {
+    "claim_id": "CLM-1023",
+    "policy_id": "POL-1023",
+    "date_filed": "2026-09-21T20:03:59.180063+00:00",
+    "raw_text": "Claiming $42600.00 for trip cancellation. I just bought this policy POL-1023 yesterday and my trip got cancelled today due to unspecified personal reasons. Can't provide documents right now.",
+    "evidence": [
+      "receipt.jpg"
+    ]
+  },
+  {
+    "claim_id": "CLM-1024",
+    "policy_id": "POL-1024",
+    "date_filed": "2026-09-23T08:03:59.180063+00:00",
+    "raw_text": "Claiming $5000.00 for trip cancellation. I just bought this policy POL-1024 yesterday and my trip got cancelled today due to unspecified personal reasons. Can't provide documents right now.",
+    "evidence": []
+  },
+  {
+    "claim_id": "CLM-1025",
+    "policy_id": "POL-1025",
+    "date_filed": "2026-09-22T11:03:59.180063+00:00",
+    "raw_text": "Claiming $22600.00 for trip cancellation. I just bought this policy POL-1025 yesterday and my trip got cancelled today due to unspecified personal reasons. Can't provide documents right now.",
+    "evidence": [
+      "receipt.jpg"
+    ]
+  },
+  {
+    "claim_id": "CLM-1026",
+    "policy_id": "POL-1026",
+    "date_filed": "2026-09-23T07:03:59.180063+00:00",
+    "raw_text": "Claiming $5000.00 for trip cancellation. I just bought this policy POL-1026 yesterday and my trip got cancelled today due to unspecified personal reasons. Can't provide documents right now.",
+    "evidence": [
+      "receipt.jpg"
+    ]
+  },
+  {
+    "claim_id": "CLM-1027",
+    "policy_id": "POL-1027",
+    "date_filed": "2026-09-21T14:03:59.180063+00:00",
+    "raw_text": "Claiming $89600.00 for trip cancellation. I just bought this policy POL-1027 yesterday and my trip got cancelled today due to unspecified personal reasons. Can't provide documents right now.",
+    "evidence": []
+  },
+  {
+    "claim_id": "CLM-1028",
+    "policy_id": "POL-1028",
+    "date_filed": "2026-09-22T02:03:59.180063+00:00",
+    "raw_text": "Claiming $5000.00 for trip cancellation. I just bought this policy POL-1028 yesterday and my trip got cancelled today due to unspecified personal reasons. Can't provide documents right now.",
+    "evidence": [
+      "receipt.jpg"
+    ]
+  },
+  {
+    "claim_id": "CLM-1029",
+    "policy_id": "POL-1029",
+    "date_filed": "2026-09-23T01:03:59.180063+00:00",
+    "raw_text": "Claiming $80400.00 for trip cancellation. I just bought this policy POL-1029 yesterday and my trip got cancelled today due to unspecified personal reasons. Can't provide documents right now.",
+    "evidence": [
+      "receipt.jpg"
+    ]
+  },
+  {
+    "claim_id": "CLM-1030",
+    "policy_id": "POL-1030",
+    "date_filed": "2026-09-21T22:03:59.180063+00:00",
+    "raw_text": "Claiming $5000.00 for trip cancellation. I just bought this policy POL-1030 yesterday and my trip got cancelled today due to unspecified personal reasons. Can't provide documents right now.",
+    "evidence": []
+  },
+  {
+    "claim_id": "CLM-BAD-1001",
+    "policy_id": "POL-BAD-1001",
+    "date_filed": "2026-09-28T09:03:59.180063+00:00",
+    "raw_text": "Filing a claim for $-50.0 due to Fell down. Happened on my trip. My SSN is 123-45-6789.",
+    "claim_type": "trip_cancellation",
+    "amount": -50.0,
+    "cause": "Fell down",
+    "evidence": [
+      "doc_1.pdf"
+    ]
+  },
+  {
+    "claim_id": "CLM-BAD-1002",
+    "policy_id": "POL-BAD-1002",
+    "date_filed": "2026-09-18T09:03:59.180063+00:00",
+    "raw_text": "Filing a claim for $3000000.0 due to Missed flight. Happened on my trip.",
+    "claim_type": "trip_cancellation",
+    "amount": 3000000.0,
+    "cause": "Missed flight",
+    "evidence": [
+      "doc_2.pdf"
+    ]
+  }
+]

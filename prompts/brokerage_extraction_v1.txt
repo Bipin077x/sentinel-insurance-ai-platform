@@ -1,0 +1,3 @@
+Extract the client's insurance needs from this text:
+
+{{document_text}}

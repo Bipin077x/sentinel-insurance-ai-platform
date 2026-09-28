@@ -1,0 +1,3402 @@
+[
+  {
+    "app_id": "CONT-5050-170",
+    "age": 31,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2169.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 31 years old. I am going to France for 7 days. The cost is $2169. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-092",
+    "age": 30,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4699.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 30 years old. I am going to France for 7 days. The cost is $4699. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-144",
+    "age": 46,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3153.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 46 years old. I am going to France for 7 days. The cost is $3153. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-062",
+    "age": 31,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2207.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 31 years old. I am going to France for 7 days. The cost is $2207. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-192",
+    "age": 29,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4915.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 29 years old. I am going to France for 7 days. The cost is $4915. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-112",
+    "age": 41,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4223.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 41 years old. I am going to France for 7 days. The cost is $4223. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-004",
+    "age": 67,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1363.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 67 years old. I am going to France for 7 days. The cost is $1363. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-177",
+    "age": 27,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1913.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 27 years old. I am going to France for 7 days. The cost is $1913. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-121",
+    "age": 36,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4765.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 36 years old. I am going to France for 7 days. The cost is $4765. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-027",
+    "age": 75,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3978.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 75 years old. I am going to France for 7 days. The cost is $3978. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-031",
+    "age": 62,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2830.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 62 years old. I am going to France for 7 days. The cost is $2830. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-108",
+    "age": 45,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4179.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 45 years old. I am going to France for 7 days. The cost is $4179. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-003",
+    "age": 73,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2681.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 73 years old. I am going to France for 7 days. The cost is $2681. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-172",
+    "age": 31,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4094.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 31 years old. I am going to France for 7 days. The cost is $4094. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-047",
+    "age": 59,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2059.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 59 years old. I am going to France for 7 days. The cost is $2059. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-155",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2426.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $2426. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-156",
+    "age": 41,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2766.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 41 years old. I am going to France for 7 days. The cost is $2766. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-167",
+    "age": 46,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4424.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 46 years old. I am going to France for 7 days. The cost is $4424. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-104",
+    "age": 39,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3047.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 39 years old. I am going to France for 7 days. The cost is $3047. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-022",
+    "age": 68,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4422.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 68 years old. I am going to France for 7 days. The cost is $4422. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-079",
+    "age": 33,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1926.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 33 years old. I am going to France for 7 days. The cost is $1926. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-074",
+    "age": 42,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1191.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 42 years old. I am going to France for 7 days. The cost is $1191. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-035",
+    "age": 77,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1069.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 77 years old. I am going to France for 7 days. The cost is $1069. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-115",
+    "age": 31,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4197.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 31 years old. I am going to France for 7 days. The cost is $4197. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-110",
+    "age": 47,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3762.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 47 years old. I am going to France for 7 days. The cost is $3762. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-052",
+    "age": 73,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2215.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 73 years old. I am going to France for 7 days. The cost is $2215. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-128",
+    "age": 33,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1985.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 33 years old. I am going to France for 7 days. The cost is $1985. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-005",
+    "age": 51,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3965.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 51 years old. I am going to France for 7 days. The cost is $3965. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-141",
+    "age": 45,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4925.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 45 years old. I am going to France for 7 days. The cost is $4925. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-045",
+    "age": 79,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2966.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 79 years old. I am going to France for 7 days. The cost is $2966. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-076",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1396.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $1396. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-138",
+    "age": 32,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4730.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 32 years old. I am going to France for 7 days. The cost is $4730. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-063",
+    "age": 31,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2662.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 31 years old. I am going to France for 7 days. The cost is $2662. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-200",
+    "age": 42,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2953.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 42 years old. I am going to France for 7 days. The cost is $2953. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-158",
+    "age": 27,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1432.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 27 years old. I am going to France for 7 days. The cost is $1432. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-195",
+    "age": 41,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3546.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 41 years old. I am going to France for 7 days. The cost is $3546. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-175",
+    "age": 30,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3574.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 30 years old. I am going to France for 7 days. The cost is $3574. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-181",
+    "age": 35,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3353.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 35 years old. I am going to France for 7 days. The cost is $3353. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-037",
+    "age": 57,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1204.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 57 years old. I am going to France for 7 days. The cost is $1204. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-127",
+    "age": 45,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1683.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 45 years old. I am going to France for 7 days. The cost is $1683. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-095",
+    "age": 25,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4805.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 25 years old. I am going to France for 7 days. The cost is $4805. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-029",
+    "age": 54,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2883.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 54 years old. I am going to France for 7 days. The cost is $2883. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-130",
+    "age": 41,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3345.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 41 years old. I am going to France for 7 days. The cost is $3345. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-123",
+    "age": 35,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3290.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 35 years old. I am going to France for 7 days. The cost is $3290. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-188",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1970.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $1970. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-030",
+    "age": 53,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3823.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 53 years old. I am going to France for 7 days. The cost is $3823. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-043",
+    "age": 61,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4074.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 61 years old. I am going to France for 7 days. The cost is $4074. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-136",
+    "age": 35,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4387.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 35 years old. I am going to France for 7 days. The cost is $4387. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-146",
+    "age": 27,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1755.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 27 years old. I am going to France for 7 days. The cost is $1755. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-171",
+    "age": 35,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1768.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 35 years old. I am going to France for 7 days. The cost is $1768. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-176",
+    "age": 26,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1497.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 26 years old. I am going to France for 7 days. The cost is $1497. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-056",
+    "age": 72,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4904.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 72 years old. I am going to France for 7 days. The cost is $4904. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-139",
+    "age": 26,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2409.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 26 years old. I am going to France for 7 days. The cost is $2409. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-081",
+    "age": 28,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2582.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 28 years old. I am going to France for 7 days. The cost is $2582. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-122",
+    "age": 47,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4042.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 47 years old. I am going to France for 7 days. The cost is $4042. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-165",
+    "age": 47,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2247.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 47 years old. I am going to France for 7 days. The cost is $2247. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-059",
+    "age": 63,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4106.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 63 years old. I am going to France for 7 days. The cost is $4106. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-023",
+    "age": 72,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1647.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 72 years old. I am going to France for 7 days. The cost is $1647. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-066",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1199.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $1199. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-050",
+    "age": 57,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2491.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 57 years old. I am going to France for 7 days. The cost is $2491. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-098",
+    "age": 46,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4682.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 46 years old. I am going to France for 7 days. The cost is $4682. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-087",
+    "age": 35,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2806.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 35 years old. I am going to France for 7 days. The cost is $2806. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-191",
+    "age": 25,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4153.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 25 years old. I am going to France for 7 days. The cost is $4153. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-193",
+    "age": 43,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1223.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 43 years old. I am going to France for 7 days. The cost is $1223. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-083",
+    "age": 34,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1865.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 34 years old. I am going to France for 7 days. The cost is $1865. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-148",
+    "age": 49,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4143.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 49 years old. I am going to France for 7 days. The cost is $4143. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-137",
+    "age": 34,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4076.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 34 years old. I am going to France for 7 days. The cost is $4076. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-069",
+    "age": 48,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1543.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 48 years old. I am going to France for 7 days. The cost is $1543. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-086",
+    "age": 34,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1310.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 34 years old. I am going to France for 7 days. The cost is $1310. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-097",
+    "age": 38,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3086.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 38 years old. I am going to France for 7 days. The cost is $3086. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-152",
+    "age": 31,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2592.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 31 years old. I am going to France for 7 days. The cost is $2592. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-160",
+    "age": 42,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4944.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 42 years old. I am going to France for 7 days. The cost is $4944. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-162",
+    "age": 38,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2956.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 38 years old. I am going to France for 7 days. The cost is $2956. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-126",
+    "age": 28,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4061.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 28 years old. I am going to France for 7 days. The cost is $4061. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-040",
+    "age": 62,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1614.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 62 years old. I am going to France for 7 days. The cost is $1614. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-049",
+    "age": 72,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4973.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 72 years old. I am going to France for 7 days. The cost is $4973. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-103",
+    "age": 49,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1651.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 49 years old. I am going to France for 7 days. The cost is $1651. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-013",
+    "age": 70,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2052.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 70 years old. I am going to France for 7 days. The cost is $2052. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-082",
+    "age": 43,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3567.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 43 years old. I am going to France for 7 days. The cost is $3567. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-067",
+    "age": 35,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4519.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 35 years old. I am going to France for 7 days. The cost is $4519. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-132",
+    "age": 28,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4852.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 28 years old. I am going to France for 7 days. The cost is $4852. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-061",
+    "age": 33,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3564.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 33 years old. I am going to France for 7 days. The cost is $3564. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-102",
+    "age": 29,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2926.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 29 years old. I am going to France for 7 days. The cost is $2926. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-099",
+    "age": 25,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4995.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 25 years old. I am going to France for 7 days. The cost is $4995. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-135",
+    "age": 28,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4992.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 28 years old. I am going to France for 7 days. The cost is $4992. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-088",
+    "age": 38,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1544.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 38 years old. I am going to France for 7 days. The cost is $1544. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-064",
+    "age": 40,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4046.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 40 years old. I am going to France for 7 days. The cost is $4046. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-134",
+    "age": 50,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4354.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 50 years old. I am going to France for 7 days. The cost is $4354. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-184",
+    "age": 48,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2874.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 48 years old. I am going to France for 7 days. The cost is $2874. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-080",
+    "age": 35,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1323.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 35 years old. I am going to France for 7 days. The cost is $1323. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-001",
+    "age": 51,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3909.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 51 years old. I am going to France for 7 days. The cost is $3909. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-044",
+    "age": 54,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2529.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 54 years old. I am going to France for 7 days. The cost is $2529. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-048",
+    "age": 66,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3044.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 66 years old. I am going to France for 7 days. The cost is $3044. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-142",
+    "age": 44,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1520.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 44 years old. I am going to France for 7 days. The cost is $1520. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-060",
+    "age": 76,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2834.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 76 years old. I am going to France for 7 days. The cost is $2834. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-159",
+    "age": 28,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1097.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 28 years old. I am going to France for 7 days. The cost is $1097. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-055",
+    "age": 60,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1383.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 60 years old. I am going to France for 7 days. The cost is $1383. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-125",
+    "age": 42,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2051.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 42 years old. I am going to France for 7 days. The cost is $2051. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-199",
+    "age": 30,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4666.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 30 years old. I am going to France for 7 days. The cost is $4666. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-072",
+    "age": 38,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3832.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 38 years old. I am going to France for 7 days. The cost is $3832. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-157",
+    "age": 39,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4299.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 39 years old. I am going to France for 7 days. The cost is $4299. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-014",
+    "age": 66,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1361.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 66 years old. I am going to France for 7 days. The cost is $1361. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-058",
+    "age": 70,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2374.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 70 years old. I am going to France for 7 days. The cost is $2374. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-166",
+    "age": 38,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3898.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 38 years old. I am going to France for 7 days. The cost is $3898. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-109",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1875.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $1875. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-145",
+    "age": 26,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1383.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 26 years old. I am going to France for 7 days. The cost is $1383. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-051",
+    "age": 59,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4770.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 59 years old. I am going to France for 7 days. The cost is $4770. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-077",
+    "age": 26,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4892.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 26 years old. I am going to France for 7 days. The cost is $4892. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-065",
+    "age": 28,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4062.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 28 years old. I am going to France for 7 days. The cost is $4062. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-018",
+    "age": 62,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2987.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 62 years old. I am going to France for 7 days. The cost is $2987. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-006",
+    "age": 54,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2383.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 54 years old. I am going to France for 7 days. The cost is $2383. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-185",
+    "age": 43,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4170.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 43 years old. I am going to France for 7 days. The cost is $4170. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-196",
+    "age": 30,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4524.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 30 years old. I am going to France for 7 days. The cost is $4524. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-011",
+    "age": 65,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3940.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 65 years old. I am going to France for 7 days. The cost is $3940. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-028",
+    "age": 69,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3325.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 69 years old. I am going to France for 7 days. The cost is $3325. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-173",
+    "age": 28,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2437.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 28 years old. I am going to France for 7 days. The cost is $2437. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-120",
+    "age": 44,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4812.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 44 years old. I am going to France for 7 days. The cost is $4812. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-131",
+    "age": 28,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2981.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 28 years old. I am going to France for 7 days. The cost is $2981. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-124",
+    "age": 26,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4499.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 26 years old. I am going to France for 7 days. The cost is $4499. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-164",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2806.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $2806. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-042",
+    "age": 67,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2358.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 67 years old. I am going to France for 7 days. The cost is $2358. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-133",
+    "age": 45,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3007.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 45 years old. I am going to France for 7 days. The cost is $3007. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-111",
+    "age": 31,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3650.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 31 years old. I am going to France for 7 days. The cost is $3650. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-182",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2120.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $2120. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-021",
+    "age": 73,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2286.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 73 years old. I am going to France for 7 days. The cost is $2286. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-053",
+    "age": 64,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2744.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 64 years old. I am going to France for 7 days. The cost is $2744. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-010",
+    "age": 74,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3265.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 74 years old. I am going to France for 7 days. The cost is $3265. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-090",
+    "age": 36,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1498.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 36 years old. I am going to France for 7 days. The cost is $1498. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-038",
+    "age": 77,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2304.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 77 years old. I am going to France for 7 days. The cost is $2304. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-085",
+    "age": 31,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3912.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 31 years old. I am going to France for 7 days. The cost is $3912. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-032",
+    "age": 77,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3957.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 77 years old. I am going to France for 7 days. The cost is $3957. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-106",
+    "age": 43,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4257.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 43 years old. I am going to France for 7 days. The cost is $4257. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-143",
+    "age": 33,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4782.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 33 years old. I am going to France for 7 days. The cost is $4782. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-068",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1239.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $1239. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-075",
+    "age": 39,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4733.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 39 years old. I am going to France for 7 days. The cost is $4733. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-034",
+    "age": 80,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4909.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 80 years old. I am going to France for 7 days. The cost is $4909. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-094",
+    "age": 47,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1046.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 47 years old. I am going to France for 7 days. The cost is $1046. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-020",
+    "age": 56,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3335.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 56 years old. I am going to France for 7 days. The cost is $3335. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-039",
+    "age": 51,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2341.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 51 years old. I am going to France for 7 days. The cost is $2341. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-017",
+    "age": 77,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3305.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 77 years old. I am going to France for 7 days. The cost is $3305. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-091",
+    "age": 33,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2885.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 33 years old. I am going to France for 7 days. The cost is $2885. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-107",
+    "age": 48,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2511.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 48 years old. I am going to France for 7 days. The cost is $2511. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-036",
+    "age": 69,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1373.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 69 years old. I am going to France for 7 days. The cost is $1373. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-002",
+    "age": 65,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1428.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 65 years old. I am going to France for 7 days. The cost is $1428. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-114",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2512.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $2512. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-024",
+    "age": 66,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2742.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 66 years old. I am going to France for 7 days. The cost is $2742. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-197",
+    "age": 32,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4783.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 32 years old. I am going to France for 7 days. The cost is $4783. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-008",
+    "age": 74,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1736.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 74 years old. I am going to France for 7 days. The cost is $1736. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-026",
+    "age": 61,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1914.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 61 years old. I am going to France for 7 days. The cost is $1914. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-129",
+    "age": 31,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3290.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 31 years old. I am going to France for 7 days. The cost is $3290. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-016",
+    "age": 56,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2753.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 56 years old. I am going to France for 7 days. The cost is $2753. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-025",
+    "age": 75,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2233.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 75 years old. I am going to France for 7 days. The cost is $2233. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-190",
+    "age": 44,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3037.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 44 years old. I am going to France for 7 days. The cost is $3037. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-140",
+    "age": 38,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4098.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 38 years old. I am going to France for 7 days. The cost is $4098. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-174",
+    "age": 35,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4896.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 35 years old. I am going to France for 7 days. The cost is $4896. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-100",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1288.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $1288. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-187",
+    "age": 43,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2424.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 43 years old. I am going to France for 7 days. The cost is $2424. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-054",
+    "age": 77,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4339.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 77 years old. I am going to France for 7 days. The cost is $4339. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-178",
+    "age": 38,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4175.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 38 years old. I am going to France for 7 days. The cost is $4175. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-073",
+    "age": 50,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3840.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 50 years old. I am going to France for 7 days. The cost is $3840. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-183",
+    "age": 31,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2553.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 31 years old. I am going to France for 7 days. The cost is $2553. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-119",
+    "age": 29,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4155.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 29 years old. I am going to France for 7 days. The cost is $4155. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-180",
+    "age": 29,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1806.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 29 years old. I am going to France for 7 days. The cost is $1806. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-194",
+    "age": 25,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2331.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 25 years old. I am going to France for 7 days. The cost is $2331. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-179",
+    "age": 30,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3864.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 30 years old. I am going to France for 7 days. The cost is $3864. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-070",
+    "age": 40,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4578.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 40 years old. I am going to France for 7 days. The cost is $4578. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-117",
+    "age": 37,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2623.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 37 years old. I am going to France for 7 days. The cost is $2623. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-147",
+    "age": 50,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1061.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 50 years old. I am going to France for 7 days. The cost is $1061. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-046",
+    "age": 54,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4011.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 54 years old. I am going to France for 7 days. The cost is $4011. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-163",
+    "age": 40,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2904.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 40 years old. I am going to France for 7 days. The cost is $2904. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-033",
+    "age": 73,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1386.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 73 years old. I am going to France for 7 days. The cost is $1386. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-150",
+    "age": 40,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3070.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 40 years old. I am going to France for 7 days. The cost is $3070. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-151",
+    "age": 42,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2320.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 42 years old. I am going to France for 7 days. The cost is $2320. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-019",
+    "age": 52,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4871.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 52 years old. I am going to France for 7 days. The cost is $4871. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-105",
+    "age": 39,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1389.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 39 years old. I am going to France for 7 days. The cost is $1389. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-153",
+    "age": 27,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3218.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 27 years old. I am going to France for 7 days. The cost is $3218. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-198",
+    "age": 35,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2128.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 35 years old. I am going to France for 7 days. The cost is $2128. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-118",
+    "age": 35,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2909.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 35 years old. I am going to France for 7 days. The cost is $2909. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-041",
+    "age": 60,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2364.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 60 years old. I am going to France for 7 days. The cost is $2364. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-113",
+    "age": 29,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4514.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 29 years old. I am going to France for 7 days. The cost is $4514. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-116",
+    "age": 38,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1168.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 38 years old. I am going to France for 7 days. The cost is $1168. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-078",
+    "age": 47,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2641.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 47 years old. I am going to France for 7 days. The cost is $2641. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-161",
+    "age": 46,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3422.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 46 years old. I am going to France for 7 days. The cost is $3422. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-084",
+    "age": 47,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3456.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 47 years old. I am going to France for 7 days. The cost is $3456. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-169",
+    "age": 34,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1385.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 34 years old. I am going to France for 7 days. The cost is $1385. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-096",
+    "age": 39,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3168.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 39 years old. I am going to France for 7 days. The cost is $3168. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-154",
+    "age": 45,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1663.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 45 years old. I am going to France for 7 days. The cost is $1663. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-012",
+    "age": 52,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1853.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 52 years old. I am going to France for 7 days. The cost is $1853. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-089",
+    "age": 25,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2340.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 25 years old. I am going to France for 7 days. The cost is $2340. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-186",
+    "age": 50,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2876.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 50 years old. I am going to France for 7 days. The cost is $2876. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-057",
+    "age": 75,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3096.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 75 years old. I am going to France for 7 days. The cost is $3096. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-071",
+    "age": 39,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4956.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 39 years old. I am going to France for 7 days. The cost is $4956. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-101",
+    "age": 29,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3573.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 29 years old. I am going to France for 7 days. The cost is $3573. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-093",
+    "age": 42,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4755.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 42 years old. I am going to France for 7 days. The cost is $4755. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-009",
+    "age": 70,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4799.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 70 years old. I am going to France for 7 days. The cost is $4799. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-007",
+    "age": 71,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 3941.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 71 years old. I am going to France for 7 days. The cost is $3941. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-189",
+    "age": 49,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 1476.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 49 years old. I am going to France for 7 days. The cost is $1476. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-015",
+    "age": 74,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4531.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 74 years old. I am going to France for 7 days. The cost is $4531. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group B",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-149",
+    "age": 28,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 4254.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 28 years old. I am going to France for 7 days. The cost is $4254. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  },
+  {
+    "app_id": "CONT-5050-168",
+    "age": 50,
+    "destination": "France",
+    "trip_duration_days": 7,
+    "trip_cost": 2124.0,
+    "pre_existing_conditions": true,
+    "planned_activities": [
+      "swimming",
+      "sightseeing"
+    ],
+    "raw_text": "I am 50 years old. I am going to France for 7 days. The cost is $2124. Note: I have a pre-existing medical condition.",
+    "metadata": {
+      "demographic_group": "Group A",
+      "submission_date": "2026-09-26T10:00:00Z"
+    }
+  }
+]

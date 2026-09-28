@@ -1,0 +1,20 @@
+Evaluate the following travel insurance application:
+
+Application Details:
+ID: {{app_id}}
+Age: {{age}}
+Destination: {{destination}}
+Trip Cost: {{trip_cost}}
+Pre-existing conditions: {{pre_existing_conditions}}
+Activities: {{activities}}
+
+Rule Check Results:
+{{rules_summary}}
+
+Actuarial Risk Assessment:
+Tier: {{risk_tier}}
+Suggested Premium: {{suggested_premium}}
+Narrative: {{narrative}}
+
+Decide whether to 'accept', 'accept-with-loading', or 'decline'.
+Provide final_premium (0 if declined), a confidence score, and reasoning_text.

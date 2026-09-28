@@ -1,0 +1,3 @@
+Extract the following application information from the text:
+
+{{document_text}}

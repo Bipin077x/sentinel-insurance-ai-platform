@@ -1,0 +1,26 @@
+version: "1.0.0"
+rules:
+  cooling_off_period_days: 14
+  data_retention_years: 7
+  minimum_disclosure_required: true
+  max_claim_review_days: 30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

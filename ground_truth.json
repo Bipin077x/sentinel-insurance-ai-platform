@@ -1,0 +1,122 @@
+[
+  {
+    "claim_id": "CLM-1001",
+    "expected_outcome": "approve"
+  },
+  {
+    "claim_id": "CLM-1002",
+    "expected_outcome": "approve"
+  },
+  {
+    "claim_id": "CLM-1003",
+    "expected_outcome": "approve"
+  },
+  {
+    "claim_id": "CLM-1004",
+    "expected_outcome": "approve"
+  },
+  {
+    "claim_id": "CLM-1005",
+    "expected_outcome": "approve"
+  },
+  {
+    "claim_id": "CLM-1006",
+    "expected_outcome": "approve"
+  },
+  {
+    "claim_id": "CLM-1007",
+    "expected_outcome": "approve"
+  },
+  {
+    "claim_id": "CLM-1008",
+    "expected_outcome": "approve"
+  },
+  {
+    "claim_id": "CLM-1009",
+    "expected_outcome": "approve"
+  },
+  {
+    "claim_id": "CLM-1010",
+    "expected_outcome": "approve"
+  },
+  {
+    "claim_id": "CLM-1011",
+    "expected_outcome": "deny"
+  },
+  {
+    "claim_id": "CLM-1012",
+    "expected_outcome": "deny"
+  },
+  {
+    "claim_id": "CLM-1013",
+    "expected_outcome": "deny"
+  },
+  {
+    "claim_id": "CLM-1014",
+    "expected_outcome": "deny"
+  },
+  {
+    "claim_id": "CLM-1015",
+    "expected_outcome": "deny"
+  },
+  {
+    "claim_id": "CLM-1016",
+    "expected_outcome": "deny"
+  },
+  {
+    "claim_id": "CLM-1017",
+    "expected_outcome": "deny"
+  },
+  {
+    "claim_id": "CLM-1018",
+    "expected_outcome": "deny"
+  },
+  {
+    "claim_id": "CLM-1019",
+    "expected_outcome": "deny"
+  },
+  {
+    "claim_id": "CLM-1020",
+    "expected_outcome": "deny"
+  },
+  {
+    "claim_id": "CLM-1021",
+    "expected_outcome": "review"
+  },
+  {
+    "claim_id": "CLM-1022",
+    "expected_outcome": "review"
+  },
+  {
+    "claim_id": "CLM-1023",
+    "expected_outcome": "review"
+  },
+  {
+    "claim_id": "CLM-1024",
+    "expected_outcome": "review"
+  },
+  {
+    "claim_id": "CLM-1025",
+    "expected_outcome": "review"
+  },
+  {
+    "claim_id": "CLM-1026",
+    "expected_outcome": "review"
+  },
+  {
+    "claim_id": "CLM-1027",
+    "expected_outcome": "review"
+  },
+  {
+    "claim_id": "CLM-1028",
+    "expected_outcome": "review"
+  },
+  {
+    "claim_id": "CLM-1029",
+    "expected_outcome": "review"
+  },
+  {
+    "claim_id": "CLM-1030",
+    "expected_outcome": "review"
+  }
+]

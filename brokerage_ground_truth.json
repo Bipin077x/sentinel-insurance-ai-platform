@@ -1,0 +1,125 @@
+[
+  {
+    "client_id": "CLIENT-1001",
+    "expected_recommendation": [
+      "prod_basic"
+    ],
+    "type": "clear-fit"
+  },
+  {
+    "client_id": "CLIENT-1002",
+    "expected_recommendation": [
+      "prod_basic"
+    ],
+    "type": "clear-fit"
+  },
+  {
+    "client_id": "CLIENT-1003",
+    "expected_recommendation": [
+      "prod_standard"
+    ],
+    "type": "clear-fit"
+  },
+  {
+    "client_id": "CLIENT-1004",
+    "expected_recommendation": [
+      "prod_standard"
+    ],
+    "type": "clear-fit"
+  },
+  {
+    "client_id": "CLIENT-1005",
+    "expected_recommendation": [
+      "prod_premium"
+    ],
+    "type": "clear-fit"
+  },
+  {
+    "client_id": "CLIENT-1006",
+    "expected_recommendation": [
+      "prod_adventure"
+    ],
+    "type": "clear-fit"
+  },
+  {
+    "client_id": "CLIENT-1007",
+    "expected_recommendation": [
+      "prod_standard",
+      "prod_premium"
+    ],
+    "excluded": "prod_basic",
+    "type": "filter"
+  },
+  {
+    "client_id": "CLIENT-1008",
+    "expected_recommendation": [
+      "prod_adventure"
+    ],
+    "excluded": "prod_standard",
+    "type": "filter"
+  },
+  {
+    "client_id": "CLIENT-1009",
+    "expected_recommendation": [
+      "prod_adventure"
+    ],
+    "excluded": "prod_premium",
+    "type": "filter"
+  },
+  {
+    "client_id": "CLIENT-1010",
+    "expected_recommendation": [
+      "prod_standard",
+      "prod_premium"
+    ],
+    "excluded": "prod_basic",
+    "type": "filter"
+  },
+  {
+    "client_id": "CLIENT-1011",
+    "expected_recommendation": [
+      "prod_basic",
+      "prod_standard"
+    ],
+    "type": "ambiguous"
+  },
+  {
+    "client_id": "CLIENT-1012",
+    "expected_recommendation": [
+      "prod_standard",
+      "prod_premium"
+    ],
+    "type": "ambiguous"
+  },
+  {
+    "client_id": "CLIENT-1013",
+    "expected_recommendation": [
+      "prod_basic",
+      "prod_standard"
+    ],
+    "type": "ambiguous"
+  },
+  {
+    "client_id": "CLIENT-1014",
+    "expected_recommendation": [
+      "prod_standard",
+      "prod_premium"
+    ],
+    "type": "ambiguous"
+  },
+  {
+    "client_id": "CLIENT-1015",
+    "expected_recommendation": [
+      "prod_basic",
+      "prod_standard"
+    ],
+    "type": "ambiguous"
+  },
+  {
+    "client_id": "CLIENT-BAD-1001",
+    "expected_recommendation": [
+      "extraction_failed"
+    ],
+    "type": "bad"
+  }
+]

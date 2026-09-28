@@ -1,0 +1,10 @@
+{
+  "audit_review_v1": "b2de314f2b7408be58eb5acd54669a4bf1456d080473323b020fb86b5d6dce4d",
+  "audit_review_v2": "4307eef4f1a80ff6f8266c4f8b3cb5b2483e0cac3e646365f00bb49f0db854ea",
+  "brokerage_extraction_v1": "bdc597350729ce17acd77c6145e71cebe9dd995bab03e6adbe84780e5f42db6e",
+  "brokerage_recommendation_v1": "b15b934bae723a75d220cb48979e0cf49055bc71532bbc99466075651e269283",
+  "claims_decision_v1": "578c8faa4490e3a2babd62f25ff45618618009db270b1853ee51a833b2bed998",
+  "claims_extraction_v1": "7b0f3564ead44b841b89b44e69056fce21608574094efff1c1fd0c5a42708447",
+  "underwriting_decision_v1": "e609fb2f36c87d34e954a9779b792bd9e78065a67aeb7b457e85e40e8645dcb4",
+  "underwriting_extraction_v1": "53769f2fad39a614fd2d7f25784ebeb50faed8ca25f0a5ac39f607840c4b0b27"
+}
